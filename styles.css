@@ -1,0 +1,61 @@
+.btn-pink {
+    background-color: rgb(250, 11, 230); /* Cambia el color de fondo a rosa */
+    color: white; /* Cambia el color del texto a blanco para contrastar */
+    /* Puedes agregar más estilos según tus necesidades */
+}
+
+.bg-pink {
+    background-color: rgb(238, 147, 230); /* Cambia el color de fondo de la barra de navegación a rosa */
+    /* Puedes agregar más estilos según tus necesidades */
+}
+
+.navbar-brand {
+    font-family: "Roboto", sans-serif;
+    /* font-family: 'Century Gothic Medium'; Cambia el tipo de letra */
+    color: rgb(90, 7, 184); /* Cambia el color del texto */
+    font-size: 50px;
+    font-weight: bold;
+}
+body {
+    background-color: rgb(243, 181, 240);
+}
+
+.card-img-top {
+    width: 100%; /* Ajusta el ancho al 100% del contenedor padre */
+    height: 280px; /* Permite que la altura se ajuste automáticamente para mantener la proporción */
+
+}
+
+.contenedor-productos {
+    background-color: rgb(192, 255, 236); /* Cambia el color de fondo del contenedor de productos a rosa */
+    padding: 20px; /* Ajusta el padding según sea necesario */
+}
+
+
+.card-body {
+    background-color: rgb(243, 181, 240);
+}
+
+.card-footer {
+    background-color: rgb(243, 181, 240);
+}
+
+.h1{
+    font-family: "Roboto", sans-serif;
+    /* font-family: 'Century Gothic Medium'; Cambia el tipo de letra */
+    color: rgb(90, 7, 184); /* Cambia el color del texto */
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #333; /* Color de fondo del footer */
+    color: white; /* Color del texto */
+    text-align: center; /* Alineación del texto */
+    padding: 20px; /* Espaciado interno */
+}
